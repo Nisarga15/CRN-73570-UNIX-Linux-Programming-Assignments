@@ -74,7 +74,6 @@ This repository serves as:
 ## 👩‍💻 Author
 
 **Nisarga Vishwamanjuswamy**
-Master’s in Computer Science
 Interested in **AI, Data Analytics, and Cloud Computing**
 
 ---
